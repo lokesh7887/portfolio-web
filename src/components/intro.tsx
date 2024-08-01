@@ -88,7 +88,7 @@ function Intro() {
         <a className='bg-white p-4 hover:text-gray-950 flex text-gray-700
         items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-185
           transition cursor-pointer border border-black/10' 
-          href="https://www.linkedin.com/in/lokesh-jadhav-a13114229/" target="_blank"><BsLinkedin/> </a>
+          href="https://www.linkedin.com/in/rokdeshwar-jadhav-a13114229/" target="_blank"><BsLinkedin/> </a>
 
         <a className='bg-white p-4 flex text-gray-700
         items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-185
